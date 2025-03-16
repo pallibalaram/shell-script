@@ -7,7 +7,7 @@ else
     
 fi
 
-sudo yum install nginx -y
+yum install nginx -y
 
 systemctl enable nginx
 
